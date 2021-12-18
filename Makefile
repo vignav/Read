@@ -1,3 +1,6 @@
+default:
+	clang read.c -o read
+
 read: read.o
 	clang read.o -o read -g 
 
