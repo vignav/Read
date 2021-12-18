@@ -6,4 +6,4 @@ Helps you output files to STDOUT
 - add the folder to your $PATH
 
 <h2>Usage:</h2>
-read --filename here--
+read --relative path from current directory--
